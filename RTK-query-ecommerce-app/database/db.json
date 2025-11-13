@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "description": "A smooth and responsive wireless mouse.",
+      "price": 25.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "price": 89.99,
+      "category": "Electronics"
+    }
+  ]
+}
